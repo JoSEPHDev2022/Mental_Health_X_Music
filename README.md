@@ -46,7 +46,7 @@ Neste reposítório, você vai encontrar:
 
 ## Sneak Peak: Dashboard
 
-![dashboard](https://github.com/JoSEPHDev2022/Mental_Health_X_Music/blob/main/image/dash.png)
+![dashboard](https://github.com/JoSEPHDev2022/Mental_Health_X_Music/blob/main/dash.png)
 
 ---
 
